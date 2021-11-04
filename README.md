@@ -36,5 +36,6 @@ This is a curated list of high-impact tutorials, libraries, papers, books, cours
 
 [Xin Guo](https://xinguo.ieor.berkeley.edu/): @ Department of Industrial Engineering and Operations Research, University of California, Berkeley
 
+[David Lariviere](https://www.davidlariviere.com/): @ Finance Department, University of Illinois at Urbana-Champaign
 ## 1.4 organizations
 ## 1.5 codes
