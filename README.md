@@ -41,5 +41,9 @@ This is a curated list of high-impact tutorials, libraries, papers, books, cours
 [David Lariviere](https://www.davidlariviere.com/): @ Finance Department, University of Illinois at Urbana-Champaign
 
 [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) @ Booth School of Business, University of Chicago
+
 ## 1.4 organizations
+
+[J.P.Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
+
 ## 1.5 codes
