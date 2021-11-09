@@ -42,6 +42,8 @@ This is a curated list of high-impact tutorials, libraries, papers, books, cours
 
 [Dacheng Xiu](https://dachxiu.chicagobooth.edu/) @ Booth School of Business, University of Chicago
 
+[Dave Cliff](https://research-information.bris.ac.uk/en/persons/dave-cliff) @ Department of Computer Science, University of Bristol
+
 ## 1.4 organizations
 
 [J.P.Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)
